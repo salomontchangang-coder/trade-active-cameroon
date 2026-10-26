@@ -1,0 +1,18 @@
+# ==============================================================================
+# TRADE ACTIVE CAMEROON S.A. - NETLIFY REDIRECTS & CLEAN URLS
+# Format: <from>  <to>  <status>
+# ==============================================================================
+
+# Clean URLs (pretty links without .html)
+/accueil              /index.html               200
+/metiers-btp          /metiers-btp.html         200
+/btp                  /metiers-btp.html         200
+/marques-partenaires  /marques-partenaires.html 200
+/marques              /marques-partenaires.html 200
+/formation            /formation.html           200
+/academie             /formation.html           200
+/entreprise           /entreprise.html          200
+/a-propos             /entreprise.html          200
+/contact              /contact.html             200
+/galerie              /galerie.html             200
+/projets              /galerie.html             200
